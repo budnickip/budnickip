@@ -3,7 +3,8 @@
 - 🌱 I’m currently looking for job as Frontend developer / React developer / Javascript developer.
 - 📫 Are you interested in hiring me? Just text me: p.budnicki95@gmail.com
 - :computer: My portfolio: https://budnickip.github.io/portfolio/
-
+- :books: https://www.codewars.com/users/budnickip
+- :books: https://www.freecodecamp.org/pbudnicki
 <!---
 budnickip/budnickip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
